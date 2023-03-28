@@ -5,7 +5,7 @@ The latter is free to use within the limits of the GNU General Public License v3
 
 My vocation is to continue to develop ZahRu over time.
 
--   🏕 Dynamic backgrounds that change according to the mood of the day
+-   🏕 Dynamic backgrounds that change according to your mood of the day
 -   🌊 Fast & lightweight!
 -   🔎 Search bar (compatible with many search engines)
 -   👋 Greets you by your name
