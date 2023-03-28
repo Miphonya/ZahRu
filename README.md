@@ -27,6 +27,7 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 ## 📚 CREDIT
 
 CSS: Bulma (https://bulma.io/)
+<br>
 Backgroud : Unsplash (https://unsplash.com/)
 
 
