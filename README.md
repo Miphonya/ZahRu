@@ -40,5 +40,7 @@ Version 1.0.0:
 CSS: Bulma (https://bulma.io/)
 <br>
 Backgroud : Unsplash (https://unsplash.com/)
+<br>
+Special thanks to Roméo for bug hunting and design assistance. 
 
 
