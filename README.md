@@ -20,8 +20,19 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 ## 🔨 Built with
 
 -   🧠 My little brain
--   Bulma ( https:bulma.io )
+-   Bulma
 -   Scripts with pure JS,HTML & CSS
+
+## 📜 ChangeLogs
+
+Version 1.0.1:
+-   Fixed a bug where if the user's name is not set during the first loading, the salutations system returns "Null."
+-   Fixed a bug where the language is not applied during the first loading, resulting in an absence of text.
+-   Fixed a bug where the search engine is not applied during the first loading, resulting in an impossibility to search on the web.
+
+Version 1.0.0:
+-   Original release.
+
 
 
 ## 📚 CREDIT
