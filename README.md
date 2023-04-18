@@ -12,7 +12,7 @@ My vocation is to continue to develop ZahRu over time.
 -   🛡 Privacy focused
 -   🌟 No data saved on the server
 -   🗺 Multilanguage
- 
+
 ## 🏃‍♀️ Running ZahRu locally
 
 To run ZahRu locally, you can simply download the contents of this repo, open the ZahRu folder and drag the "index.html" file to your browser's address bar.
@@ -24,6 +24,10 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.1.0:
+-   Adding an option to choose the background resolution.
+-   Removing the save button for modifying the background theme. The save is now automatically applied to each letter typed, allowing for a half dynamic search of background options.
+-   Fixing a bug that caused the background to be placed at the top of the screen on small screens, leaving a large white space at the bottom.
 
 Version 1.0.1:
 -   Fixed a bug where if the user's name is not set during the first loading, the salutations system returns "Null."
@@ -41,6 +45,4 @@ CSS: Bulma (https://bulma.io/)
 <br>
 Backgroud : Unsplash (https://unsplash.com/)
 <br>
-Special thanks to Roméo for bug hunting and design assistance. 
-
-
+Special thanks to Roméo for bug hunting and design assistance.
