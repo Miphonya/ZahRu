@@ -12,6 +12,7 @@ My vocation is to continue to develop ZahRu over time.
 -   🛡 Privacy focused
 -   🌟 No data saved on the server
 -   🗺 Multilanguage
+-   🐙 100% Open-source
 
 ## 🏃‍♀️ Running ZahRu locally
 
@@ -24,6 +25,12 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.2.0:
+-   Added a home menu if ZahRu is opened for the first time or if navigation data has been deleted.
+-   Added a basic guided configuration on the home menu (language, search engine, and display resolution).
+-   Fixed a bug that caused the background image not to appear unless something was typed in the background customization tool -   when the page was loaded.
+-   TEMPORARILY removed the "Wallpaper from Unsplash" footnote.
+
 Version 1.1.0:
 -   Adding an option to choose the background resolution.
 -   Removing the save button for modifying the background theme. The save is now automatically applied to each letter typed, allowing for a half dynamic search of background options.
