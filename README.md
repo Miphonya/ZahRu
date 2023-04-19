@@ -28,6 +28,7 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 Version 1.2.0:
 -   Added a home menu if ZahRu is opened for the first time or if navigation data has been deleted.
 -   Added a basic guided configuration on the home menu (language, search engine, and display resolution).
+-   Adding emojis representing page loading speed next to screen resolution options.
 -   Fixed a bug that caused the background image not to appear unless something was typed in the background customization tool -   when the page was loaded.
 -   TEMPORARILY removed the "Wallpaper from Unsplash" footnote.
 
