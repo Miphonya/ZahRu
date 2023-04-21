@@ -25,6 +25,14 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.3.0:
+-   Complete rewrite of all JavaScript code
+-   Partial rewrite of HTML code
+-   Added styling to the button on the first startup page
+-   Removed the save button for modifying the user name. The name is now automatically saved with each letter typed.
+-   Modified the emojis representing page loading speed based on the resolution selected to lightning bolts.
+-   Fixed a bug that prevented interaction with elements above the search bar under certain conditions.
+
 Version 1.2.0:
 -   Added a home menu if ZahRu is opened for the first time or if navigation data has been deleted.
 -   Added a basic guided configuration on the home menu (language, search engine, and display resolution).
@@ -53,4 +61,5 @@ CSS: Bulma (https://bulma.io/)
 <br>
 Backgroud : Unsplash (https://unsplash.com/)
 <br>
-Special thanks to Roméo for bug hunting and design assistance.
+Special thanks to Roméo for his input on the overall design.
+Special thanks to "The Tal" for his valuable technical advice.
