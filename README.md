@@ -25,6 +25,21 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.4.0:
+-   Added the Spanish language.
+-   Added the Italian language.
+-   Added the Dutch language.
+-   Added the Polish language.
+-   Added the Portuguese language.
+-   Added the Romanian language.
+-   Added the Japanese language.
+-   Added the Simplified Chinese language.
+-   Added the Russian language.
+-   Added the Arabic language.
+-   Added the Korean language.
+-   The "Wallpaper from Unsplash" footnote is back.
+-   Correction of 3 text errors.
+
 Version 1.3.0:
 -   Complete rewrite of all JavaScript code
 -   Partial rewrite of HTML code
@@ -62,4 +77,5 @@ CSS: Bulma (https://bulma.io/)
 Backgroud : Unsplash (https://unsplash.com/)
 <br>
 Special thanks to Roméo for his input on the overall design.
+<br>
 Special thanks to "The Tal" for his valuable technical advice.
