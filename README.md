@@ -25,6 +25,17 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.5.0
+-   Writing and adding terms of use.
+-   Writing and adding data protection policy.
+-   Adding a checkbox asking for confirmation of reading the terms of use on the first startup menu.
+-   Adding a text that redirects to the terms of use on the first startup menu.
+-   Adding a checkbox asking for confirmation of reading the data protection policy on the first startup menu.
+-   Adding a text that redirects to the data protection policy on the first startup menu.
+-   Adding an effect that turns the texts that redirect to the terms of use or data protection policy red if they are not.
+-   checked during the first parameter setting save.
+-   Changing the "OK!" button that validates the first parameter setting on the first startup menu to " ⇾ 💾 ⇽ ".
+
 Version 1.4.0:
 -   Added the Spanish language.
 -   Added the Italian language.
