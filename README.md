@@ -25,6 +25,9 @@ To run ZahRu locally, you can simply download the contents of this repo, open th
 -   Scripts with pure JS,HTML & CSS
 
 ## 📜 ChangeLogs
+Version 1.5.1
+-   Merge the two checkboxes for terms of use and privacy policy into a single one.
+
 Version 1.5.0
 -   Writing and adding terms of use.
 -   Writing and adding data protection policy.
