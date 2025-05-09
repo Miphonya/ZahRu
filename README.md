@@ -3,7 +3,8 @@ Zahru is basically a new tab/start page, which I created in my spare time to get
 
 The latter is free to use within the limits of the GNU General Public License v3.0.
 
-My vocation is to continue to develop ZahRu over time.
+~~My vocation is to continue to develop ZahRu over time.~~ 
+Well... to be honest, I had quite a few little ideas, but the removal of the Unsplash support has demotivated me for now ^^
 
 -   🏕 Dynamic backgrounds that change according to your mood of the day
 -   🌊 Fast & lightweight!
